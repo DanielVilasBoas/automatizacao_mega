@@ -1,0 +1,8 @@
+# Arquivos e diretórios a serem ignorados pelo Git
+
+# Dependências Python
+venv/
+*.pyc
+
+# Arquivos gerados durante a execução
+resultados/
